@@ -30,23 +30,6 @@ class BlankFragment1 : Fragment() {
     }
 
 //Your are Beauty full
-//Your are Beauty full
-//Your are Beauty full
-//Your are Beauty full
-//Your are Beauty full
-//Your are Beauty full
-//Your are Beauty full
-//Your are Beauty full
-//Your are Beauty full
-//Your are Beauty full
-//Your are Beauty full
-//Your are Beauty full
-//Your are Beauty full
-//Your are Beauty full
-//Your are Beauty full
-//Your are Beauty full
-//Your are Beauty full
-//  Ahsan Noor is best
     companion object {
 
 //    Hasssan
