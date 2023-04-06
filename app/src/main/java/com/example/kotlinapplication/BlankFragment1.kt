@@ -33,6 +33,8 @@ class BlankFragment1 : Fragment() {
 //  Ahsan Noor is best
     companion object {
 
+//    Hasssan
+
         @JvmStatic
         fun newInstance() =
             BlankFragment1()
