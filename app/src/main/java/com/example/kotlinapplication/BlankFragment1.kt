@@ -29,7 +29,7 @@ class BlankFragment1 : Fragment() {
         val image = view.findViewById<ImageView>(R.id.frag1Image)
     }
 
-
+//Your are Beauty full
 //  Ahsan Noor is best
     companion object {
 
