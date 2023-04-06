@@ -29,6 +29,8 @@ class BlankFragment1 : Fragment() {
         val image = view.findViewById<ImageView>(R.id.frag1Image)
     }
 
+
+//  Ahsan Noor is best
     companion object {
 
         @JvmStatic
